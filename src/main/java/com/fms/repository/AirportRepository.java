@@ -1,4 +1,4 @@
-package com.fms.airport.repository;
+package com.fms.repository;
 import org.springframework.data.repository.CrudRepository;
 //repository that extends CrudRepository
 

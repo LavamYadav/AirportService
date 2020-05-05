@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.fms.airport.dto.Airport;
-import com.fms.airport.repository.AirportRepository;
+import com.fms.repository.AirportRepository;
 
 //defining the business logic
 @Service
